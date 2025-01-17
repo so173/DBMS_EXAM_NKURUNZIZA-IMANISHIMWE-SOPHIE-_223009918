@@ -1,4 +1,4 @@
-[4:00 PM, 1/17/2025] Gaby: 
+[4:00 PM, 1/17/2025] SOPHIE
 mysql> CREATE DATABASE ENTERPRISE;
 mysql> create database sophie ;
 ERROR 1007 (HY000): Can't create database 'sophie'; database exists
